@@ -10,21 +10,21 @@
 JRE	v.15
 
 ## 実際の画像
-プレイヤ名入力：
+プレイヤ名入力：<br>
 ![enter_name](imgs/enter_name.png)
-
-マッチング画面：
+<br>
+マッチング画面：<br>
 ![matching](imgs/matching.png)
-
-ハンデ選択：
+<br>
+ハンデ選択：<br>
 ![choose_hand](imgs/choose_hand.png)
-
-ハンデ折衷：
+<br>
+ハンデ折衷：<br>
 ![make_compromise1](imgs/make_compromise_1.png)
 ![make_compromise2](imgs/make_compromise_2.png)
-
-プレイ中：
+<br>
+プレイ中：<br>
 ![play](imgs/play.png)
-
-ゲーム終了：
+<br>
+ゲーム終了：<br>
 ![game_over](imgs/game_over.png)
